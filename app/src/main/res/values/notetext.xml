@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="noteTitle">Ez a jegyzet címe</string>
+    <string name="noteContent1">Első sor</string>
+    <string name="noteContent2">Második sor</string>
+    <string name="noteContent3">Harmadik sor</string>
+</resources>
